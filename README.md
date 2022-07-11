@@ -28,12 +28,19 @@ Resources used in the analysis included:
  - There were 65 5-stars Vine reviews
  - There were 20,612 5-stars non-Vine reviews
 
+![5-Star Vine](https://github.com/RebeccaA79/Amazon_Vine_Analysis/blob/main/images/five_star_vine.png)
+
+![5-Star Non-Vine](https://github.com/RebeccaA79/Amazon_Vine_Analysis/blob/main/images/five_star_non-vine.png)
+
 
 ### Percentage of 5-star reviews
 
  - 38.24% of Vine reviews were 5-stars
  - 54.47% of non-Vine reviews were 5-stars
 
+![% 5-Star Vine](https://github.com/RebeccaA79/Amazon_Vine_Analysis/blob/main/images/five_star_%25_vine.png)
+
+![% 5 Star Non-Vine](https://github.com/RebeccaA79/Amazon_Vine_Analysis/blob/main/images/five_star_%25_non-vine.png)
 
 ## Summary
 Based on the results listed above, there does not appear to be a positivity bias of reviews in the Vine Program. There is a larger percentage of 5-star reviews among non-Vine reviews at 54.47% in comparison to 38.24% of 5-star Vine reviews. Since there is a larger number of overall non-Vine reviews, it would be beneficial to run some additional statistical analysis to determine the accuracy of these figures. Running statistics such as median, mean, mode, and standard deviation may provide further clarity. Additionally, R can be leveraged to run different tests such as a T-test.
