@@ -18,6 +18,10 @@ Resources used in the analysis included:
  - There were 170 Vine reviews
  - There were 37,840 non-Vine reviews
 
+![Vine Reviews](https://github.com/RebeccaA79/Amazon_Vine_Analysis/blob/main/images/vine_reviews.png)
+
+![Non-Vine Reviews](https://github.com/RebeccaA79/Amazon_Vine_Analysis/blob/main/images/non-vine_reviews.png)
+
 
 ### Total number of 5-star reviews
 
